@@ -1,0 +1,56 @@
+body {
+    min-height: 100vh;
+    background: #f3f6fb;
+    color: #243047;
+}
+
+.topbar {
+    background: #172b4d;
+}
+
+.navbar-brand {
+    color: #ffffff;
+    font-size: 23px;
+}
+
+.navbar .nav-link {
+    color: #dbe5f5;
+}
+
+.navbar .nav-link:hover {
+    color: #68d7c2;
+}
+
+.metric-card {
+    border: none;
+    border-radius: 14px;
+    box-shadow: 0 5px 20px rgba(24, 39, 75, 0.08);
+}
+
+.metric-card h2 {
+    font-size: 30px;
+    font-weight: 700;
+    color: #285eb8;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+.table thead th {
+    white-space: nowrap;
+    color: #53627a;
+}
+
+.btn-primary {
+    background: #285eb8;
+    border-color: #285eb8;
+}
+
+.btn-primary:hover {
+    background: #1f4d99;
+}
+
+footer {
+    font-size: 14px;
+}
